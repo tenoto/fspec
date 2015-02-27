@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# convert PI values to energy (keV)
+# convert energy (keV) value to PI 
 
 __author__  = "Teru Enoto"
 __version__ = "1.0.0"
