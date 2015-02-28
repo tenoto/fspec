@@ -1,0 +1,38 @@
+SKIP SING
+CSIZ  1.40
+FONT ROMAN
+LAB  POS Y  1.80
+LWIDTH   2.
+TIME OFF
+COL  OFF 10..12
+COL 10 ON 3
+COL 6 ON 4
+COL 1 ON 5
+COL 2 ON 6
+COL 10 ON 7
+COL 6 ON 8
+COL 13 ON 9
+LIne ON    2
+LS    2 ON   2
+LIne ON    3
+LS    2 ON   3
+LIne ON    4
+LS    2 ON   4
+LIne ON    6
+LS    2 ON   6
+LIne ON    7
+LS    2 ON   7
+LIne ON    8
+LS    2 ON   8
+LS    3 ON   9
+ERR OFF 2 3 4 6 7 8 
+LW   1.0 ON   9
+LOC  0 0 1 1
+Vie  0.1 0.1 0.95 0.9
+LAB  F  1E 1547.0-5408 (405024010)
+LAB  X  Energy (keV)
+LAB Y \gnF\gn d\u2\d(10\u44.0\d keV\u2\d s\u-1\d keV\u-1\d)
+R Y 1.46720000e-04 2.75100000e+00
+R    X   1 60
+LOG  X ON 1
+LOG  Y ON 1
