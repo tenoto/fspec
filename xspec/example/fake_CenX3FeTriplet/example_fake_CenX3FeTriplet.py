@@ -40,6 +40,9 @@ for resp in respfiles:
 # and also the 2008 Suzaku observation.
 # Detailed prametrization of the line width has not yet to be studied. 
 # This model is only valid in the 5--8 keV range. 
+# Also, this simulation does not include the energy width as an ideal case. 
+# This is just as an illustrative purpose. For the realistic physical simulation,
+# we need to include the energy width. 
 
 cmd = 'rm -rf out; mkdir out'
 os.system(cmd)
