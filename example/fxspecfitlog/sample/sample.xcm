@@ -1,0 +1,7 @@
+data 1 sample/xis_1mCrabFeLine_80ks_bin.pha
+backgrnd sample/xis_1mCrabFeLine_80ks_bkg.fak
+resp 1 sample/ae_2FI_xisnom_ao10.rsp
+ignore **-0.5 10.0-**
+@sample/fake_model_1mCrabFeLine.xcm
+freeze 7 0 -1
+fit

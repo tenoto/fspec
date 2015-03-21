@@ -1,0 +1,9 @@
+0: 
+  title: "Continuum"
+  "Column Den. (10^22 cm-2)": 1
+  "Photon index": 2
+  "norm": 5
+1: 
+  title: "Line"
+  "Energy (keV)": 6
+  "norm": 8

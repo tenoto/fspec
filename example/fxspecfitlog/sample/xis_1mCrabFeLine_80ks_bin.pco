@@ -1,0 +1,14 @@
+SKIP SING
+LWIDTH   2.
+COL 1 ON 2
+LW   1.0 ON   1
+MArk    1 ON   1
+LIne Step    2
+LW   2.0 ON   2
+LOC  0 0 1 1
+LAB  F
+LAB  T  \fRdata and folded model
+LAB  X  Channel
+LAB  Y  normalized counts s\u-1\d chan\u-1\d
+R    X1 0.5 2048.5
+R    Y   0 0.00018899632

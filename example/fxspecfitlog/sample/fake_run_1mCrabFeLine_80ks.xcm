@@ -1,0 +1,12 @@
+data 1 LH_xisnom6mm_sky_fi2048.pi
+backgrnd 1 LH_xisnom6mm_sky_fi2048.pi
+resp 1 ae_2FI_xisnom_ao10.rsp
+@fake_model_1mCrabFeLine.xcm
+fakeit 
+y 
+xis_1mCrabFeLine_80ks
+xis_1mCrabFeLine_80ks.fak
+80e+3
+
+setp rebin 5 80
+setp channel 

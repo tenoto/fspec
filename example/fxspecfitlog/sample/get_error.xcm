@@ -1,0 +1,8 @@
+log fit.log
+fit
+err 1.0 1
+err 1.0 2
+err 1.0 5
+err 1.0 8
+err 1.0 6
+log none
