@@ -54,6 +54,6 @@ print dump
 f.write(dump)
 f.close()
 
-cmd = 'chmod +x %s' % param['output_pha']
+cmd = 'chmod +x %s' % shfile
 os.system(cmd)
 quit()		
