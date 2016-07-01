@@ -1,3 +1,0 @@
-input_pha: 'nu30101035002A01_sr.pha'
-output_pha: 'nu30101035002A01_sr_logspbin.pha'
-binning_setups: [[35,210,70],[211,1935,30]]
